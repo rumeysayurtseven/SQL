@@ -2,7 +2,7 @@
 table and column names in order to write accurate queries and get the appropriate answers.
 https://ucde-rey.s3.amazonaws.com/DSV1015/ChinookDatabaseSchema.png */
 
-1. P"ull a list of customer ids with the customer’s full name, and address,
+1. P"ull a list of customer ids with the customer’s full name, and address 
 along with combining their city and country together.
 Be sure to make a space in between these two and make it UPPER CASE."
 
